@@ -1,11 +1,7 @@
-# Currently WIP - Please do not report anything that is broken.
-
----
-
 ## Replaces KH1 Command Menu
 
-> ### This is the UHD version (1440p and above)
-> > ### This means it will look extremely sharp, possibly jagged if you use it on resolutions lower than 1440p.
+> ### This is the standard version.
+> > ### This means this version of the mod supports resolutions between 720p ~ 1080p. If you play on a resolution higher than 1200p (E.g. 2560x1440, or 3840x2160), you might be interested in using the [UHD version here.](https://github.com/Vladabdf/kh2QuadratumCM-UHD)
 
 ---
 
