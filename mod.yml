@@ -21,43 +21,43 @@ assets:
   - name: remastered/field2d/us/zz0command.2dd/~0.dds
     method: copy
     source:
-    - name: remastered/QHD_us.dds
+    - name: remastered/HD_us.dds
 # FR
   - name: remastered/field2d/fr/zz0command.2dd/~0.dds
     method: copy
     source:
-    - name: remastered/QHD_fr.dds
+    - name: remastered/HD_fr.dds
 # DE
   - name: remastered/field2d/gr/zz0command.2dd/~0.dds
     method: copy
     source:
-    - name: remastered/QHD_de.dds
+    - name: remastered/HD_de.dds
 # SP
   - name: remastered/field2d/sp/zz0command.2dd/~0.dds
     method: copy
     source:
-    - name: remastered/QHD_es.dds
+    - name: remastered/HD_es.dds
 # IT
   - name: remastered/field2d/it/zz0command.2dd/~0.dds
     method: copy
     source:
-    - name: remastered/QHD_it.dds
+    - name: remastered/HD_it.dds
 # JP
   - name: remastered/field2d/jp/zz0command.2dd/~0.dds
     method: copy
     source:
-    - name: remastered/QHD_jp.dds
+    - name: remastered/HD_jp.dds
 # Translation mod support - Currently awaiting release
 # CA - Catalan
 #  - name: remastered/field2d/ca/zz0command.2dd/~0.dds
 #    method: copy
 #    source:
-#    - name: remastered/QHD_ca.dds
+#    - name: remastered/HD_ca.dds
 # TR - Turkish
 #  - name: remastered/field2d/tr/zz0command.2dd/~0.dds
 #    method: copy
 #    source:
-#    - name: remastered/QHD_tr.dds
+#    - name: remastered/HD_tr.dds
 # Begin: MSG replacement
   - name: msg/us/sys.bar
     multi:
